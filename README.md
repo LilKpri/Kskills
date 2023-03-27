@@ -1,7 +1,7 @@
 ## Exigences
 * Base de données MySQL
 * quelques connaissances en LUA
-* Mode essentiel et ES étendu
+* ES_EXTENDED
 
 ## Comment utiliser
 Lorsque vous conduisez, après un certain temps, vous acquerrez des compétences de conduite.
